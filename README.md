@@ -2,11 +2,11 @@
 our first project github
 
 Team Members
-  vishwa
-  karunja
-  presanth
-  mithusha
-  lakmi
+  vishwa <br>
+  karunja <br>
+  presanth <br>
+  mithusha <br>
+  lakmi <br>
 
 Software Reqiurements
 
